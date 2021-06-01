@@ -12,6 +12,8 @@
   "author": "Ing. Jakub Jirák",
   "license": "ISC",
   "dependencies": {
-    "json-server": "^0.16.3"
+    "axios": "^0.21.1",
+    "json-server": "^0.16.3",
+    "redux-thunk": "^2.3.0"
   }
 }
