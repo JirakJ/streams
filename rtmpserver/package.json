@@ -1,0 +1,14 @@
+{
+  "name": "rtmpserver",
+  "version": "1.0.0",
+  "description": "Just simple RTMP server for my twitch clone project",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "author": "Ing. Jakub Jirák",
+  "license": "ISC",
+  "dependencies": {
+    "node-media-server": "^2.2.7"
+  }
+}
